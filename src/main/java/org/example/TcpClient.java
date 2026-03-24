@@ -1,8 +1,5 @@
 package org.example;
-
-import javax.print.DocFlavor;
 import java.io.InputStream;
-import java.net.ServerSocket;
 import java.net.Socket;
 
 public class TcpClient {

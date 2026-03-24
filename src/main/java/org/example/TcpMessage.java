@@ -1,8 +1,5 @@
 package org.example;
-
-import javax.imageio.IIOException;
 import java.io.OutputStream;
-import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
